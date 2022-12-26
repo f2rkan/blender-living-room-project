@@ -67,9 +67,9 @@ Which tutorials did you refer to?
 - blender basics: I gained such basic blender knowledge with such a poor Udemy training that I would never recommend it. Be aware that it is the worst blender basics training on the market and work with a random blender training video and be sure to get a much better foundation.
 
 - [leaf making](https://www.youtube.com/watch?v=y7PdiGXbrD0)
-- [A training video on modern room design that I benefited from to gain vision 1](https://www.youtube.com/watch?v=Yf9YJ3d9GHo)
-- [A training video on modern room design that I benefited from to gain vision 2](https://www.youtube.com/watch?v=wrzSrjAY69c)
-- [A training video on modern room design that I benefited from to gain vision 3](https://www.youtube.com/watch?v=rRuwN8DXjm0)
+- [a training video on modern room design that I benefited from to gain vision 1](https://www.youtube.com/watch?v=Yf9YJ3d9GHo)
+- [a training video on modern room design that I benefited from to gain vision 2](https://www.youtube.com/watch?v=wrzSrjAY69c)
+- [a training video on modern room design that I benefited from to gain vision 3](https://www.youtube.com/watch?v=rRuwN8DXjm0)
 
 ---
 
