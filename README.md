@@ -18,6 +18,7 @@ Which assets did you download from the internet?
 
 <img width="285" alt="Ekran Resmi 2022-12-26 20 18 51" src="https://user-images.githubusercontent.com/44947688/209571160-19ad3278-9f6a-437b-847a-2eaf30934856.png">
 ---
+
 - Texture sample used for the chair:
 
 <img width="406" alt="Ekran Resmi 2022-12-26 20 19 00" src="https://user-images.githubusercontent.com/44947688/209571212-a717fa59-1c2d-4d29-af11-faf56f0a6ebc.png">
