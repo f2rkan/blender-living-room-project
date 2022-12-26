@@ -14,7 +14,7 @@ What did each member of the group do?
 Which assets did you download from the internet?
 - I did not download any assets from the internet, I used some images to make textures with the colors I found appropriate; I selected these images from various websites solely based on their aesthetics appealing to my personal taste;
 ---
-## The image used as a texture on the marble countertop, kitchen wall, and kitchen table:
+#### The image used as a texture on the marble countertop, kitchen wall, and kitchen table:
 
 <img width="285" alt="Ekran Resmi 2022-12-26 20 18 51" src="https://user-images.githubusercontent.com/44947688/209571160-19ad3278-9f6a-437b-847a-2eaf30934856.png">
 ---
