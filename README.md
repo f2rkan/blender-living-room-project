@@ -14,37 +14,37 @@ What did each member of the group do?
 Which assets did you download from the internet?
 - I did not download any assets from the internet, I used some images to make textures with the colors I found appropriate; I selected these images from various websites solely based on their aesthetics appealing to my personal taste;
 ---
-#### The image used as a texture on the marble countertop, kitchen wall, and kitchen table:
+> The image used as a texture on the marble countertop, kitchen wall, and kitchen table:
 
 <img width="285" alt="Ekran Resmi 2022-12-26 20 18 51" src="https://user-images.githubusercontent.com/44947688/209571160-19ad3278-9f6a-437b-847a-2eaf30934856.png">
 
 ---
 
-#### Texture sample used for the chair:
+> Texture sample used for the chair:
 
 <img width="406" alt="Ekran Resmi 2022-12-26 20 19 00" src="https://user-images.githubusercontent.com/44947688/209571212-a717fa59-1c2d-4d29-af11-faf56f0a6ebc.png">
 
 ---
 
-#### Texture sample used as a texture for the coffee table, board used to define the boundary of the kitchen, television stand, and pentagonal shelves mounted on the wall:
+> Texture sample used as a texture for the coffee table, board used to define the boundary of the kitchen, television stand, and pentagonal shelves mounted on the wall:
 
 <img width="484" alt="Ekran Resmi 2022-12-26 20 19 08" src="https://user-images.githubusercontent.com/44947688/209571222-ca70783f-27a2-4e0b-8e73-049734ce2a1c.png">
 
 ---
 
-#### Texture sample used as a texture for the flower vase next to the television:
+> Texture sample used as a texture for the flower vase next to the television:
 
 <img width="304" alt="Ekran Resmi 2022-12-26 20 19 14" src="https://user-images.githubusercontent.com/44947688/209571236-216c54b0-75ff-4bcf-86fa-7a59c0ea2b00.png">
 
 ---
 
-#### Texture sample used as a texture for the curtains at the beginning of the scene and the chairs in front of the door:
+> Texture sample used as a texture for the curtains at the beginning of the scene and the chairs in front of the door:
 
 <img width="309" alt="Ekran Resmi 2022-12-26 20 19 20" src="https://user-images.githubusercontent.com/44947688/209571241-7ef7a404-de45-4b46-9e1e-048014050a81.png">
 
 ---
 
-#### Texture sample used as a texture for the parquet:
+> Texture sample used as a texture for the parquet:
 
 
 <img width="201" alt="Ekran Resmi 2022-12-26 20 19 26" src="https://user-images.githubusercontent.com/44947688/209571247-ccf529e9-1239-48e6-af83-af08bc452eb4.png">
