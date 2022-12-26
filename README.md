@@ -75,39 +75,37 @@ Which tutorials did you refer to?
 
 ## Final Scene
 
-<img width="1440" alt="Ekran Resmi 2022-12-17 19 16 08" src="https://user-images.githubusercontent.com/44947688/209573276-f774fbe8-1376-45e5-9a9d-fd4277bf846b.png">
+> <img width="1440" alt="Ekran Resmi 2022-12-17 19 16 08" src="https://user-images.githubusercontent.com/44947688/209573276-f774fbe8-1376-45e5-9a9d-fd4277bf846b.png">
 
-### _The rendered version of the same image_
+>> _The rendered version of the same image_
 
 ![render 1](https://user-images.githubusercontent.com/44947688/209573296-077d5a9e-b833-4d0d-a232-2bc99d83cc7f.png)
 
 
 ---
 
-### Variant A: Different Camera Angle
+> Variant A: Different Camera Angle
 
 <img width="1440" alt="Ekran Resmi 2022-12-17 19 25 31" src="https://user-images.githubusercontent.com/44947688/209573426-a26a13e7-a1b6-4ac4-9c57-42b0253a918e.png">
 
-### _The rendered version of the same image_
+>> _The rendered version of the same image_
 
 
 ![render 3](https://user-images.githubusercontent.com/44947688/209573459-e75c3946-4d22-4633-8d8d-606c1ff9cf73.png)
 
 ---
 
-### Variant B: The same scene with the textures removed
+> Variant B: The same scene with the textures removed
 
 
 ![no texture](https://user-images.githubusercontent.com/44947688/209573570-30d7c853-21e3-4a86-b090-aa61d443ecf4.png)
 
 ---
 
-### _I activated the Denoise parameter, set the Noise Threshold to 0.01, set the Max Samples to 4096, and took the render with CPU as the Device and Cycles as the Render Engine:_
+> _I activated the Denoise parameter, set the Noise Threshold to 0.01, set the Max Samples to 4096, and took the render with CPU as the Device and Cycles as the Render Engine:_
 
 ![cycles render](https://user-images.githubusercontent.com/44947688/209573909-56d1f4c6-a38b-4630-83a8-7a77de78be4e.png)
 
 
 
->ddddd
->sssss
->sss
+
