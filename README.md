@@ -50,3 +50,17 @@ Which assets did you download from the internet?
 <img width="201" alt="Ekran Resmi 2022-12-26 20 19 26" src="https://user-images.githubusercontent.com/44947688/209571247-ccf529e9-1239-48e6-af83-af08bc452eb4.png">
 
 ---
+
+Which assets did you make yourself?
+
+- I used a design mainly based on cubes, and I tried to turn them into structures similar to those I found in images and photos on the internet that I took as a reference point in edit mode; I tried to transform them into structures similar to those I found in images and photos on the internet that I took as a reference point in edit mode; the L-shaped kitchen counter, kitchen shelves, kitchen walls, refrigerator and its arm, chair, chair and coffee table legs, cushions and pillows, TV unit and TV were created with the shaping of the cube in edit mode.
+- I created structures that give the impression of spotlights with Torus and buried Circle inside.
+- I created the legs of the table, chair and coffee table with cylinder.
+- I created the structures in the shape of hanging leaves with Bezier Curve.
+- I created the kitchen sink and the decorative vase on the coffee table with Sphere.
+- I made the backrests of the chairs used in the kitchen with Surface.
+- I defined the field depth at a distance of 10 meters and chose the Aperture values for F-Stop as 55.8; Blades as 16; Rotation as 32.8°; and Ratio as 1.
+
+---
+
+
