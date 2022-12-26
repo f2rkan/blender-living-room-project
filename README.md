@@ -104,7 +104,7 @@ Which tutorials did you refer to?
 
 > _I activated the Denoise parameter, set the Noise Threshold to 0.01, set the Max Samples to 4096, and took the render with CPU as the Device and Cycles as the Render Engine:_
 
-![cycles render](https://user-images.githubusercontent.com/44947688/209573909-56d1f4c6-a38b-4630-83a8-7a77de78be4e.png)
+>> ![cycles render](https://user-images.githubusercontent.com/44947688/209573909-56d1f4c6-a38b-4630-83a8-7a77de78be4e.png)
 
 
 
