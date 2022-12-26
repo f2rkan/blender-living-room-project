@@ -1,5 +1,5 @@
 # open-plan living room project in blender
-##### I used Blender to design an open-plan living room for the design project required for the Design and Animation course (code BLM2-4731) in the Computer Engineering department.
+##### I used Blender to design an open-plan living room for the project required for the Design and Animation course (code BLM2-4731) in the Computer Engineering department.
 ---
 How did you meet the project requirements?
 - Main geometric structures: All structures in the project were created from scratch; I only prepared an archive of image files for reference purposes, and based on the structures in this archive, I made similar and identical ones.
