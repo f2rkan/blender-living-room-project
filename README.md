@@ -64,3 +64,14 @@ Which assets did you make yourself?
 ---
 
 
+##Final Scene
+
+<img width="1440" alt="Ekran Resmi 2022-12-17 19 16 08" src="https://user-images.githubusercontent.com/44947688/209573276-f774fbe8-1376-45e5-9a9d-fd4277bf846b.png">
+
+### The rendered version of the same image
+
+![render 1](https://user-images.githubusercontent.com/44947688/209573296-077d5a9e-b833-4d0d-a232-2bc99d83cc7f.png)
+
+
+
+
